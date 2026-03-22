@@ -1,3 +1,4 @@
+##Español##
 # 👋 Hola, soy Cuixin
 
 📊 Data Analyst en formación
@@ -51,7 +52,62 @@ https://github.com/cuixin-gse
 GitHub:
 https://github.com/cuixin-gse
 
+##English##
 
+👋 Hi, I’m Cuixin
+
+📊 Data Analyst in training
+🐍 Python Developer
+📍 Interested in data analysis, visualization, and automation
+
+I am currently enrolled in a Data Analysis bootcamp, where I work with Python to clean, analyze, and visualize datasets.
+
+🚀 Technologies & Tools
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib / Seaborn
+
+Jupyter Notebook
+
+Git & GitHub
+
+📂 Projects
+📊 Data Analysis with Python
+
+A project where I apply data analysis using Pandas.
+
+It includes:
+
+Data cleaning
+
+Dataset transformation
+
+Exploratory Data Analysis (EDA)
+
+Data visualization
+
+🔗 View project
+https://github.com/cuixin-gse
+
+📚 Currently Learning
+
+Exploratory Data Analysis (EDA)
+
+Data visualization
+
+Data storytelling
+
+SQL for data analysis
+
+📫 Contact
+
+GitHub:
+https://github.com/cuixin-gse
 <!--
 **cuixin-gse/cuixin-gse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
